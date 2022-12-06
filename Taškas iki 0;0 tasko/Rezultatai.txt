@@ -1,0 +1,5 @@
+koordinates: (0;1) atstumas = 1
+koordinates: (0;5) atstumas = 5
+koordinates: (2;6) atstumas = 6.32456
+
+Didziausias atstumas: 6.32456 , koordinaciu: (2;6)
